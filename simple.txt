@@ -9,3 +9,4 @@ $PasswordFile = "c:\passwords\Centrify_Password.txt"
 $KeyFile = "c:\passwords\Centrify_AES.key"
 
 Copyright @2019
+maheshwaran@gmail.com
