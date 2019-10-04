@@ -3,3 +3,7 @@ param($users1,$computer_name,[string]$role_details,[int]$Date_to_expire,$Request
 
 #$users1 = "e3029006"
 #$computer_name = "vlltcbbtest4"
+
+
+$PasswordFile = "c:\passwords\Centrify_Password.txt"
+$KeyFile = "c:\passwords\Centrify_AES.key"
