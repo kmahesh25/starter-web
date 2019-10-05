@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 
-Resbase example to 
+Resbase example to mahe.txt
 
 hello
 =======
