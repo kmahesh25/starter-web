@@ -1,0 +1,6 @@
+Courses in Pluralsight
+
+ ###Powershell###
+1.
+ 2.Windows PowerShell: Essentials
+3.Windows PowerShell: Scripting and Toolmaking
