@@ -4,3 +4,14 @@ Courses in Pluralsight
 1.
  2.Windows PowerShell: Essentials
 3.Windows PowerShell: Scripting and Toolmaking
+
+###Javascript
+1. 
+2. HTML, CSS, and JavaScript: The Big Picture
+3. JavaScript: Getting Started
+4. JavaScript Fundamentals
+5. JavaScript Objects and Prototypes
+6. Practical Design Patterns in JavaScript
+7. Advanced Techniques in JavaScript and jQuery
+8. JavaScript Best Practices
+9. Rapid ES6 Training
