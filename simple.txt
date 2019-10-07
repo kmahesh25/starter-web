@@ -10,6 +10,10 @@ $KeyFile = "c:\passwords\Centrify_AES.key"
 Master branch update
 Copyright @2019
 maheshwaran@gmail.com
+<<<<<<< HEAD
 Realwork Branch
 Myfeature branch update-->
 my simple cmmit
+=======
+Remote Repoistory changes
+>>>>>>> 04a8470aa293058a6b0b56f752254d55e39fa104
